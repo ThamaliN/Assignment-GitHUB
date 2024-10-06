@@ -51,6 +51,6 @@ public class App {
          else{
             System.out.println("You are an adult.");
          }
-         System.out.println("Press space to exit");
+         .out.println("Press space to exit");
     }
 }
